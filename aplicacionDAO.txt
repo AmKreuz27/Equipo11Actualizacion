@@ -1,0 +1,11 @@
+Integrantes del equipo:
+	López Vidal Luis Armando 
+	López Velázquez Mauricio Damman
+JAVA
+	Proyecto DAO 2\Dao
+
+SQL
+Proyecto solucion:
+ 	DAO 2\Store Procedure\Sql\Multiservidor
+
+
